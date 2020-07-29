@@ -23,3 +23,6 @@ docs/*
 __MACOSX/*
 ._*
 .smbdelete*
+
+# npm
+node_modules/

@@ -22,6 +22,8 @@ Util::addScript('analytics', 'jquery.dataTables.min');
 Util::addScript('analytics', '3rdParty/Chart.bundle.min');
 Util::addScript('analytics', '3rdParty/chartjs-plugin-colorschemes.min');
 Util::addScript('analytics', '3rdParty/cloner');
+Util::addScript('analytics', 'analytics-main');
+
 ?>
 
     <div id="app-navigation">
